@@ -85,7 +85,6 @@ public class WarGameActivity extends AppCompatActivity {
 
         generateImageView();
 
-
         mPhone = findViewById(R.id.iv_phone);
         mGirlAvator = findViewById(R.id.iv_girl_avator);
         mBoyAvator = findViewById(R.id.iv_boy_avator);
